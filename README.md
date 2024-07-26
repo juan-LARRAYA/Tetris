@@ -59,7 +59,7 @@ Esto iniciará el juego y abrirá una ventana donde podrás jugar Tetris.
 - **Flecha Izquierda**: Mueve el tetrimino a la izquierda.
 - **Flecha Derecha**: Mueve el tetrimino a la derecha.
 - **Flecha Abajo**: Acelera el descenso del tetrimino.
-- **Espacio**: Rota el tetrimino.
+- **Flecha Arriba**: Rota el tetrimino.
 
 ## Contribuciones
 
